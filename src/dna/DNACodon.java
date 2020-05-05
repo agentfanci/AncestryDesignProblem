@@ -103,3 +103,4 @@ public class DNACodon {
         throw new Exception("this codon does not transcribe a amino acid: " + codon);
     }
 }
+//nice, yeet
